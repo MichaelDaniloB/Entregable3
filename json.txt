@@ -1,0 +1,15 @@
+{
+  "id": "317df05a-1bb6-4369-b916-213ed69ceccf",
+  "nombre": "Juan",
+  "nacionalidad": "Narnia"
+}
+
+
+
+
+{
+   "id": "e6a96c36-3755-45de-bb14-5c09411e04a3",
+   "nombre":"the game of thrones",
+   "resumen":"ninguno",
+   "autord": "317df05a-1bb6-4369-b916-213ed69ceccf"
+}
